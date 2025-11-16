@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS, Azure, Advanced React, GSAP Animations, Frontend Architecture**
 
-- 👨‍💻 All of my projects are available at [www.dipakdev.in/projects](www.dipakdev.in/projects)
+- 👨‍💻 All of my projects are available at www.dipakdev.in/projects
 
 - 💬 Ask me about **React, Vue, MERN Stack, GSAP, JavaScript, UI/UX, Frontend Architecture**
 
