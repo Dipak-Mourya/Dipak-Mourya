@@ -1,3 +1,4 @@
+<img width="1492" height="370" alt="image (10)" src="https://github.com/user-attachments/assets/ddec7bf1-58af-4fb2-aaa7-fd2e5232cea3" />
 <h1 align="center">Hi 👋, I'm Dipak Mourya</h1>
 <h3 align="center">Full-Stack Developer | Building Modern, Scalable Web Applications</h3>
 
